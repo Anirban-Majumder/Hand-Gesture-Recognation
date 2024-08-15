@@ -1,6 +1,6 @@
 ## Hand_Gesture_Recognition
 
-# 👋 This is a hand gesture recognition demo, designed to recognize and interpret hand gestures using computer vision techniques.
+# 👋 This is a hand gesture recognition system, designed to recognize and interpret hand gestures using computer vision techniques.
 
 ### 📝Requirements
 
