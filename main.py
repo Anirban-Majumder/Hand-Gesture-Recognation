@@ -6,8 +6,8 @@ noise = 3000
 
 def preprocess_frame(frame):
     frame = cv2.flip(frame, 1)
-    roi = frame[100:250, 100:250]
-    cv2.rectangle(frame, (100, 100), (250, 250), (0, 0, 255), 0)
+    roi = frame[100:350, 100:350]
+    cv2.rectangle(frame, (100, 100), (350, 350), (0, 0, 255), 0)
     hsv = cv2.cvtColor(roi, cv2.COLOR_BGR2HSV)
     return frame, roi, hsv
 

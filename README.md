@@ -46,6 +46,8 @@ python main.py
 
 That's All !!!
 
+You made need to increase the noise value if its giving false positive and reduce it if not detecting your hand.
+
 **macOS Users & Linux Users:** Hand_Gesture_Recognition is primarily tested on Windows, so there might be some issues ...
 
 ## ℹ️ Software Information
