@@ -21,48 +21,48 @@ build and version of Python for your operating system [here](https://python.org/
 
 1. Clone the repository
 
-```git clone https://github.com/yourusername/Hand_Gesture_Recognition```
+```
+git clone https://github.com/anirbanmajumder0/Hand-Gesture-Recognation
+```
 
 2. Change the working directory
 
-```cd Hand_Gesture_Recognition/src```
+```
+cd Hand-Gesture-Recognition
+```
 
 3. Install dependencies
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 4. Run the app
 
-```python main.py```
+```
+python main.py
+```
 
 
 That's All !!!
 
 **macOS Users & Linux Users:** Hand_Gesture_Recognition is primarily tested on Windows, so there might be some issues ...
 
-## 🤝 Contributing
-
-Any kind of positive contribution is welcome! Please help to grow by contributing to the project.
-
-If you wish to contribute, you can work on any feature or bugs. After adding your code, please send a Pull Request.
-
-> Please read `CONTRIBUTING` for details on `CODE OF CONDUCT`, and the process for submitting pull requests.
-
 ## ℹ️ Software Information
 
 ### License
 
-Hand_Gesture_Recognition is licensed under the MIT License. For more information, see the [`LICENSE`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FD%3A%2FZProjects%2FHand-Gesture-Recognation%2FLICENSE%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "d:\ZProjects\Hand-Gesture-Recognation\LICENSE") file for details.
+Voice_Assistant is licensed under the MIT License. For more information, see the [`LICENSE`](LICENSE) file for details.
 
 ### Finding the Software
 
 Hand_Gesture_Recognition is free and open-source software. You can find the code on
-[GitHub](https://github.com/yourusername/Hand_Gesture_Recognition).
+[GitHub](https://github.com/anirbanmajumder0/Hand-Gesture-Recognation).
 
 ### Reporting Bugs
 
-To report any bugs, raise an [issue on Github](https://github.com/yourusername/Hand_Gesture_Recognition/issues/new?assignees=yourusername&labels=&template=bug_report.md).
+To report any bugs, raise an [issue on Github](https://github.com/anirbanmajumder0/Hand-Gesture-Recognation/issues/new?assignees=anirbanmajumder0&labels=&template=bug_report.md).
 
 ### Feature Requests
 
-Feature requests for Hand_Gesture_Recognition are welcome! Raise a feature request [issue on Github](https://github.com/yourusername/Hand_Gesture_Recognition/issues/new?assignees=yourusername&labels=&template=feature_request.md) or contact me by email at <contact@yourdomain.com>.
+Feature requests for Hand_Gesture_Recognition are welcome! Raise a feature request [issue on Github](https://github.com/anirbanmajumder0/Hand-Gesture-Recognation/new?assignees=anirbanmajumder0&labels=&template=feature_request.md).
